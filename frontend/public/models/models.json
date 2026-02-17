@@ -1,0 +1,23 @@
+[
+  { "id": "suit_full", "name": "Suit (Full)", "url": "/models/suit.glb" },
+  { "id": "suit_jacket", "name": "Suit Jacket", "url": "/models/suit_jacket.glb" },
+
+  { "id": "business_suit_1", "name": "Business Suit (Uploaded)", "url": "/models/man_black_business_suit.glb" },
+  { "id": "business_suit_2", "name": "Business Suit (Uploaded 2)", "url": "/models/man_black_business_suit%20(1).glb" },
+
+  { "id": "mens_formal", "name": "Mens Formal Suit", "url": "/models/mens_formal_suit_3d_model.glb" },
+  { "id": "prom_suit", "name": "Prom Suit", "url": "/models/prom_suit.glb" },
+
+  { "id": "formal_pant_1", "name": "Formal Pant", "url": "/models/solid_color_formal_pant.glb" },
+  { "id": "formal_pant_2", "name": "Formal Pant (2)", "url": "/models/solid_color_formal_pant%20(1).glb" },
+
+  { "id": "free_shirt", "name": "Free Shirt", "url": "/models/free_shirt.glb" },
+ 
+ { "id": "tie", "name": "Tie", "url": "/models/tie_3d_model.glb" }
+ ,
+{ "id": "ankit_rigged", "name": "Businessman (Rigged)", "url": "/models/businessman_character_ankit_rigged.glb" },
+{ "id": "man_suit_full", "name": "Man Dressed In Suit", "url": "/models/man_dressed_in_suit.glb" }
+
+]
+
+

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cotton_blue_a",
+    "name": "cotton blue a",
+    "color": "/fabrics/cotton_blue_a.jpg",
+    "normal": null,
+    "roughness": null,
+    "repeat": 3,
+    "baseRoughness": 0.85,
+    "env": 0.12
+  },
+  {
+    "id": "cotton_blue_b",
+    "name": "cotton blue b",
+    "color": "/fabrics/cotton_blue_b.jpg",
+    "normal": null,
+    "roughness": null,
+    "repeat": 3,
+    "baseRoughness": 0.85,
+    "env": 0.12
+  },
+  {
+    "id": "cotton_extra",
+    "name": "cotton extra",
+    "color": "/fabrics/cotton_extra.jpg",
+    "normal": null,
+    "roughness": null,
+    "repeat": 3,
+    "baseRoughness": 0.85,
+    "env": 0.12
+  },
+  {
+    "id": "cotton_white",
+    "name": "cotton white",
+    "color": "/fabrics/cotton_white.jpg",
+    "normal": null,
+    "roughness": null,
+    "repeat": 3,
+    "baseRoughness": 0.85,
+    "env": 0.12
+  },
+  {
+    "id": "silk_black",
+    "name": "silk black",
+    "color": "/fabrics/silk_black.jpg",
+    "normal": null,
+    "roughness": null,
+    "repeat": 3,
+    "baseRoughness": 0.6,
+    "env": 0.12
+  },
+  {
+    "id": "silk_dark",
+    "name": "silk dark",
+    "color": "/fabrics/silk_dark.jpg",
+    "normal": null,
+    "roughness": null,
+    "repeat": 3,
+    "baseRoughness": 0.6,
+    "env": 0.12
+  },
+  {
+    "id": "silk_gray",
+    "name": "silk gray",
+    "color": "/fabrics/silk_gray.jpg",
+    "normal": null,
+    "roughness": null,
+    "repeat": 3,
+    "baseRoughness": 0.6,
+    "env": 0.12
+  },
+  {
+    "id": "wool_dark",
+    "name": "wool dark",
+    "color": "/fabrics/wool_dark.jpg",
+    "normal": null,
+    "roughness": null,
+    "repeat": 3,
+    "baseRoughness": 0.9,
+    "env": 0.12
+  },
+  {
+    "id": "wool_gray_a",
+    "name": "wool gray a",
+    "color": "/fabrics/wool_gray_a.jpg",
+    "normal": null,
+    "roughness": null,
+    "repeat": 3,
+    "baseRoughness": 0.9,
+    "env": 0.12
+  },
+  {
+    "id": "wool_gray_b",
+    "name": "wool gray b",
+    "color": "/fabrics/wool_gray_b.jpg",
+    "normal": null,
+    "roughness": null,
+    "repeat": 3,
+    "baseRoughness": 0.9,
+    "env": 0.12
+  },
+  {
+    "id": "wool_light",
+    "name": "wool light",
+    "color": "/fabrics/wool_light.jpg",
+    "normal": null,
+    "roughness": null,
+    "repeat": 3,
+    "baseRoughness": 0.9,
+    "env": 0.12
+  },
+  {
+    "id": "wool_soft",
+    "name": "wool soft",
+    "color": "/fabrics/wool_soft.jpg",
+    "normal": null,
+    "roughness": null,
+    "repeat": 3,
+    "baseRoughness": 0.9,
+    "env": 0.12
+  }
+]
